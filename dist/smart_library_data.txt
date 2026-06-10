@@ -1,0 +1,14 @@
+[CATALOGUE]
+9780132350884|Clean Code|Robert C. Martin
+9780134093413|Computer Networking|James Kurose, Keith Ross
+9780134685991|Effective Java|Joshua Bloch
+9780135166307|Core Java Volume I|Cay S. Horstmann
+9780136042594|Artificial Intelligence: A Modern Approach|Stuart Russell, Peter Norvig
+9780201633610|Design Patterns|Erich Gamma et al.
+9780262033848|Introduction to Algorithms|Cormen, Leiserson, Rivest, Stein
+9780321573513|Algorithms|Robert Sedgewick, Kevin Wayne
+9781491950357|Designing Data-Intensive Applications|Martin Kleppmann
+
+[LOANS]
+LEGACY_STUDENT|9780131103627|The C Programming Language|Brian W. Kernighan, Dennis M. Ritchie|2026-05-18|2026-06-01|false
+S002|9781491950357|Designing Data-Intensive Applications|Martin Kleppmann|2026-06-10|2026-06-24|true

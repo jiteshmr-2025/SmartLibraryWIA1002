@@ -1,0 +1,5 @@
+[USERS]
+A001|Default Admin|ADMIN
+S001|Default Student|STUDENT
+A002|Chee|ADMIN
+S002|Tan Chee Keat|STUDENT
