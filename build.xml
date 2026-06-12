@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project name="SmartLibraryWIA1002" default="default" basedir=".">
+    <description>Builds, tests, and runs the SmartLibraryWIA1002 project.</description>
+    <import file="nbproject/build-impl.xml"/>
+</project>
